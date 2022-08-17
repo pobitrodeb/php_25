@@ -1,2 +1,2 @@
-# php_25
-Database name : day_24, Table name: students
+# php_day23
+How to get the Image file from the input.
